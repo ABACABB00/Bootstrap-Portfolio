@@ -1,0 +1,25 @@
+.navbar {
+    border-bottom:  10px solid black;
+} 
+
+.jumbotron {
+    background-color: darkgrey;
+    color: black;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+  }
+
+.rounded {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+.page-footer {
+    background-color: darkgray;
+    color: white;
+}
+
+.website {
+    color: white;
+}
