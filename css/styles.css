@@ -1,25 +1,41 @@
 .navbar {
-    border-bottom:  10px solid black;
+    font-family: "Times New Roman", Times, serif;
 } 
 
-.jumbotron {
-    background-color: darkgrey;
-    color: black;
-    font-family: Georgia, Times, 'Times New Roman', serif;
-  }
-
-.rounded {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-  
-.page-footer {
-    background-color: darkgray;
-    color: white;
+.bright {
+  border-right: 1px solid #bbb;
 }
 
-.website {
-    color: white;
+.logo {
+  width: 45px;
+  margin-right: 8px;
+}
+
+.myavatar {
+  margin-right: 25px;
+}
+
+.jumbotron {
+  background-image: url(../images/watercolors.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  margin-bottom: 10px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+}
+
+footer {
+  margin-top: 100px;
+  color: white;
+}
+footer img {
+  margin-left: 8px;
+}
+
+footer a {
+  color: white;
 }
